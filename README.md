@@ -1,4 +1,5 @@
-## Hi there 👋
+### Hi there 👋
+## Myself Abhay Gautam 👩‍💻 🚀 
 # 💫 About Me:
 🧠 About Me :<br><br>🛰️ I’m currently working on<br>Integrating Artificial Intelligence into modern web applications to create smarter, more interactive user experiences.<br><br>👯 I’m looking to collaborate on<br>AI-driven web projects, open-source software, or any innovative ideas that merge machine learning with full-stack development.<br><br>🤝 I’m looking for help with<br>Optimizing AI model performance and exploring best practices for scalable backend integration.<br><br>🌱 I’m currently learning<br>Advanced neural network architectures, prompt engineering, and cloud deployment for AI-powered systems.<br><br>💬 Ask me about<br>Web development, REST APIs, React, AI integration, and how to make your projects more intelligent with automation.<br><br>⚡ Fun fact<br>I once spent hours debugging a “missing semicolon” — it taught me more patience than any tutorial ever could 😄
 
